@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889298958061",
+    "project_id": "forsa-95a25",
+    "storage_bucket": "forsa-95a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889298958061:android:1b8aec0df27ccc7b0cbee4",
+        "android_client_info": {
+          "package_name": "com.ebtasm.fursa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889298958061-lktc4i4o6fc9cpcbju1jp66f9rnc0qd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC550na09cx0Y8XOb0jMo-uGzDUGUCfDOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889298958061-lktc4i4o6fc9cpcbju1jp66f9rnc0qd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

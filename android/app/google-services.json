@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "888477243818",
+    "project_id": "fursa-e92f2",
+    "storage_bucket": "fursa-e92f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888477243818:android:a372791afe5d0f53ba33d3",
+        "android_client_info": {
+          "package_name": "com.ebtasm.fursa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888477243818-119n8tmgc2i600el41qlp4jsrr8cfh98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ebtasm.fursa",
+            "certificate_hash": "f753e4dcfa3c7bee967c78445fb5bce1dce048dd"
+          }
+        },
+        {
+          "client_id": "888477243818-ldvok8lnbkulun6qmd7a4q8h4hv5mln8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhM88sh0hXZvWsagh6ypqtnC1wIy4kORw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888477243818-ldvok8lnbkulun6qmd7a4q8h4hv5mln8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
