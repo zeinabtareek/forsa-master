@@ -25,21 +25,20 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSCameraUsageDescription</key>
-	<string>$Fursa app would like to use your camera to Upload a photo of the item you want to donate.</string>
-	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Always and when in use!</string>
-	<key>NSLocationAlwaysUsageDescription</key>
-	<string>Can I have location always?</string>
-	<key>NSLocationUsageDescription</key>
-	<string>Older devices need location.</string>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Need location to determine user current location for delivering the product </string>
-	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>$Fursa app would like to save photos to your photo gallery</string>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Fursa app would like access to your photo gallery to Upload a photo of the item you want to donate</string>
-	<key>UIApplicationSupportsIndirectInputEvents</key>
+    <string>Fursa would like to use your camera to upload your profile photo.</string>
+
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>Fursa would like to save photos to your photo gallery </string>
+
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Fursa would like access to your photo gallery to upload your profile photo.</string>
+    <key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+
+
+
+
+
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>fetch</string>
